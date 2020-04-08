@@ -1,0 +1,9 @@
+
+@media only screen and (max-width: 600px) {
+    #WRchTxtg-1ca8 span, #WRchTxt6-ti1 span {
+         font-size:45px !important;
+    }
+    #WRchTxtg-1ca8 {
+        width:100% !important;
+    }
+}
